@@ -1,0 +1,11 @@
+Варианты установок 
+1) https://www.tecmint.com/install-postgresql-with-pgadmin4-on-linux-mint/
+2) https://www.youtube.com/watch?v=FcTRbMFNdlU&ab_channel=Cyberello
+
+
+Если вот такая ошибка 
+  Unable to connect to server:
+  connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+  connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+  ________________________________________________________________________________________________________________________________
+  Решение: https://stackoverflow.com/questions/2942485/psql-fatal-ident-authentication-failed-for-user-postgres
